@@ -1,5 +1,3 @@
-Sure! Here’s a clear and professional README file for your React app with theme toggle context:
-
 ---
 
 # React Notes App with Dark/Light Theme Toggle
