@@ -1,0 +1,7 @@
+export const ADD_NOTE = "Add Note"
+export const SWITCH_TO="Switch to"
+export const MODE="Mode"
+export const EDIT="Edit"
+export const DELETE="Delete"
+export const CANCEL="Cancel"
+export const NO_NOTES_AVAILABLE="No Notes Available"
