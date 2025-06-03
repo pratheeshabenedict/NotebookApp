@@ -62,4 +62,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-If you want, I can help you customize it further or add badges!
